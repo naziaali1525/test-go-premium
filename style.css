@@ -1,0 +1,24 @@
+.basic{
+    background-color: #111111;
+    color: #fff;
+    padding: 18px;
+    font-size: 24px;
+}
+   
+
+.basic, .year, .list-group-item, .button {
+    display: flex;
+    justify-content: center;
+}
+#container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 69px;
+
+}
+.pro{
+    background-color: #53b050;
+}
+.btn-success{
+    border-radius: 1px !important;
+}
